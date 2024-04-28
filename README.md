@@ -1,5 +1,5 @@
 # SURGE_NITT
-this website is for Surge the official civic club of NITT
+Crafted the Surge club website with HTML, CSS, and JavaScript, emphasizing aesthetic appeal and user experience. Integrated responsive design principles for seamless navigation across devices. Demonstrates proficiency in front-end development and UI/UX design, showcasing creativity and attention to detail.
 
-#Link
-https://hyphenhypen.github.io/SURGE_NITT/
+# Link
+https://Aditya-PS-05.github.io/SURGE_NITT/
